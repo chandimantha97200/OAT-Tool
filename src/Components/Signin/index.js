@@ -1,7 +1,6 @@
 import React from 'react'
 import image from '../../images/loginimage.png';
 import {Link } from 'react-router-dom'
-import './style.css'
 
 export default function SignIn() {
     return (
